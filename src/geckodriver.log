@@ -37,3 +37,43 @@ JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1
 1480944972563	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.c58GD2G8GA5C
 1480944972564	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
 1480944972566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56406
+1480948439764	geckodriver	INFO	Listening on 127.0.0.1:60295
+1480948440765	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.raLlRWPIu3zz
+1480948440766	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948440768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43201
+1480948443778	geckodriver	INFO	Listening on 127.0.0.1:50333
+1480948444779	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PT5Il4W9uC72
+1480948444780	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948444782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56428
+1480948469461	geckodriver	INFO	Listening on 127.0.0.1:44222
+1480948470462	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YDynO3aElVWo
+1480948470463	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948470464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59272
+1480948473416	geckodriver	INFO	Listening on 127.0.0.1:34159
+1480948474417	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JrwOLjitZI6I
+1480948474418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948474419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51650
+1480948551199	geckodriver	INFO	Listening on 127.0.0.1:34669
+1480948552200	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ixVxY4hHQJzd
+1480948552200	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948552202	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36013
+1480948555131	geckodriver	INFO	Listening on 127.0.0.1:33504
+1480948556132	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fr44lsmaZeFF
+1480948556133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948556134	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60897
+1480948580357	geckodriver	INFO	Listening on 127.0.0.1:47855
+1480948581357	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KYVAYSg2hKIf
+1480948581358	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948581360	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35076
+1480948584266	geckodriver	INFO	Listening on 127.0.0.1:39240
+1480948585267	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RegPiJZ7SXll
+1480948585268	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948585269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37729
+1480948722751	geckodriver	INFO	Listening on 127.0.0.1:45110
+1480948723751	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.G2Mh2oZMTznw
+1480948723752	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948723754	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47988
+1480948726732	geckodriver	INFO	Listening on 127.0.0.1:42878
+1480948727733	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VMXyeWVMNfVC
+1480948727734	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480948727736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49053
