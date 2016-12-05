@@ -77,3 +77,11 @@ JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1
 1480948727733	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VMXyeWVMNfVC
 1480948727734	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
 1480948727736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49053
+1480949746495	geckodriver	INFO	Listening on 127.0.0.1:42746
+1480949747496	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.liJXjNt8rHd2
+1480949747497	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480949747499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56829
+1480949750525	geckodriver	INFO	Listening on 127.0.0.1:57109
+1480949751526	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eD6WGyx14Eof
+1480949751527	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1480949751529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33024
