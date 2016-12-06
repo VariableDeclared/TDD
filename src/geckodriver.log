@@ -221,3 +221,224 @@ JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1
 (firefox-esr:12152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 
 (firefox-esr:12152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481030865616	geckodriver	INFO	Listening on 127.0.0.1:35094
+1481030866616	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NNZko5InoG8F
+1481030866617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481030866618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35392
+1481030869432	geckodriver	INFO	Listening on 127.0.0.1:40070
+1481030870432	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sRavnIn4iiuV
+1481030870432	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481030870433	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40059
+
+(firefox-esr:17504): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:17504): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:17504): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031004551	geckodriver	INFO	Listening on 127.0.0.1:58378
+1481031005551	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4pe3Ex12B7Ny
+1481031005551	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031005552	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44248
+1481031008333	geckodriver	INFO	Listening on 127.0.0.1:59355
+1481031009332	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.itmPkeSMuSyJ
+1481031009332	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031009333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46051
+
+(firefox-esr:18442): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:18442): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:18442): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031080874	geckodriver	INFO	Listening on 127.0.0.1:41814
+1481031081874	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AfRTjigbAYBV
+1481031081874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031081875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46129
+1481031084689	geckodriver	INFO	Listening on 127.0.0.1:46012
+1481031085689	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DJUWUWGIV9zi
+1481031085689	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031085691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36993
+
+(firefox-esr:19073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19073): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031103810	geckodriver	INFO	Listening on 127.0.0.1:39658
+1481031104811	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9pVfwfwytQqu
+1481031104811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031104812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40268
+1481031107617	geckodriver	INFO	Listening on 127.0.0.1:42679
+1481031108616	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q5QREsRSTNM8
+1481031108617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031108618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35374
+
+(firefox-esr:19355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19355): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031156578	geckodriver	INFO	Listening on 127.0.0.1:48445
+1481031157578	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.824LldrWlO0z
+1481031157578	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031157579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34016
+1481031160385	geckodriver	INFO	Listening on 127.0.0.1:53107
+1481031161385	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ckGEx2vZLx3N
+1481031161386	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031161387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56771
+
+(firefox-esr:19797): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19797): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19797): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:19797): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481031512861	geckodriver	INFO	Listening on 127.0.0.1:52304
+1481031513861	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.151W28GJfDJx
+1481031513862	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031513863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54005
+1481031516738	geckodriver	INFO	Listening on 127.0.0.1:60698
+1481031517737	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k4hyxSXbywlh
+1481031517738	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031517739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36110
+
+(firefox-esr:21799): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:21799): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:21799): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:21799): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481031649489	geckodriver	INFO	Listening on 127.0.0.1:50703
+1481031650488	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.H9KAm8cAHA1G
+1481031650489	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031650490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46965
+1481031653304	geckodriver	INFO	Listening on 127.0.0.1:41423
+1481031654304	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DjSMVo25bNcJ
+1481031654305	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031654306	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37478
+
+(firefox-esr:22736): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:22736): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:22736): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031720570	geckodriver	INFO	Listening on 127.0.0.1:42920
+1481031721571	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.p33nlNx2qMfr
+1481031721571	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031721572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53206
+1481031724347	geckodriver	INFO	Listening on 127.0.0.1:42199
+1481031725347	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3KsEO9ddRYNw
+1481031725347	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031725348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57951
+
+(firefox-esr:23287): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:23287): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:23287): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031792064	geckodriver	INFO	Listening on 127.0.0.1:34029
+1481031793065	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zc84OmvBy2Js
+1481031793065	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031793066	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48412
+1481031795932	geckodriver	INFO	Listening on 127.0.0.1:43771
+1481031796932	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fFQ4M5vb2tpj
+1481031796933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031796934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49039
+
+(firefox-esr:23887): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:23887): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:23887): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481031938432	geckodriver	INFO	Listening on 127.0.0.1:47435
+1481031939433	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JAU1PXuk9v9Y
+1481031939433	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031939434	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45652
+1481031942229	geckodriver	INFO	Listening on 127.0.0.1:34120
+1481031943228	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.N7mQwveMqo1t
+1481031943229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481031943230	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50989
+
+(firefox-esr:24859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:24859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:24859): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481032528212	geckodriver	INFO	Listening on 127.0.0.1:50756
+1481032529212	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TCKnPBdjIJ6R
+1481032529212	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032529213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50730
+1481032532044	geckodriver	INFO	Listening on 127.0.0.1:59462
+1481032533043	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xyZ0Lh76gptP
+1481032533043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032533044	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38217
+
+(firefox-esr:27994): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:27994): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:27994): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481032633069	geckodriver	INFO	Listening on 127.0.0.1:51739
+1481032634069	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VhS9AmkTXSQs
+1481032634069	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032634071	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47503
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481032719214	geckodriver	INFO	Listening on 127.0.0.1:48399
+1481032720214	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2AfXBlGzJ4nh
+1481032720215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032720216	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41626
+1481032723041	geckodriver	INFO	Listening on 127.0.0.1:59959
+1481032724041	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B9zgauQ0ySr9
+1481032724041	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032724043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50232
+
+(firefox-esr:29310): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:29310): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:29310): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481032979775	geckodriver	INFO	Listening on 127.0.0.1:43666
+1481032980776	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.T0BRMVtazUR3
+1481032980776	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032980778	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50319
+1481032983701	geckodriver	INFO	Listening on 127.0.0.1:44710
+1481032984700	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9555L8ttY61F
+1481032984701	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481032984703	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54503
+
+(firefox-esr:31014): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:31014): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:31014): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481033062561	geckodriver	INFO	Listening on 127.0.0.1:50981
+1481033063561	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1WuvTND4BsSH
+1481033063562	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481033063563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55851
+1481033066368	geckodriver	INFO	Listening on 127.0.0.1:33746
+1481033067366	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s20n4qMwQUUu
+1481033067366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481033067367	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46730
+
+(firefox-esr:31632): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:31632): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:31632): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1481033452831	geckodriver	INFO	Listening on 127.0.0.1:43263
+1481033453831	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KlLfPl0Zd8Dg
+1481033453832	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481033453833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39207
+1481033456782	geckodriver	INFO	Listening on 127.0.0.1:53531
+1481033457780	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ujGyw1ERBbpU
+1481033457781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481033457782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36064
+
+(firefox-esr:1356): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:1356): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox-esr:1356): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
