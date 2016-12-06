@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd src/superlists/
+python manage.py test
+cd ../..
+python src/functional_tests.py
